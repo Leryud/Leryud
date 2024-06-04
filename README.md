@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Leryud
-- 👀 I’m interested in Computer Science, Artificial Intelligence, C++, Python, and open-source AI.
+
